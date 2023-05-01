@@ -1,0 +1,7 @@
+name: AutomaticMine
+version: '1.0-SNAPSHOT'
+main: automaticmine.Main
+api-version: 1.18
+commands:
+  AutomaticMine:
+    aliases: am

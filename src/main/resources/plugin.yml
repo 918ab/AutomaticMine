@@ -1,0 +1,7 @@
+name: AutomaticMine
+version: '${project.version}'
+main: automaticmine.Main
+api-version: 1.18
+commands:
+  AutomaticMine:
+    aliases: am
