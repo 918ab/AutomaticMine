@@ -1,8 +1,25 @@
-AutomaticMine Plugin
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F918ab%2FAutomaticMine&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-● 시스템처리
-○ 비동기처리
-
-[config.txt](https://github.com/918ab/AutomaticMine/files/11365975/config.txt)
+# AutomaticMinef Plugin
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F918ab%2520%2F%2520AutomaticMine&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>  ![Mineraft badge](https://img.shields.io/badge/test_Version_Minecraft-1.18.2%2B-green)
 
 ![2023-05-01_23 44 53](https://user-images.githubusercontent.com/107310740/235470529-0924bc73-e7ef-4066-bbb7-dff5616f5759.png)
+
+>Config.yml
+```
+생성할때, '값'동안 기다림 (사용안함 = 0)
+wait_seconds : 0
+생성될 월드
+world : world
+맨 밑부분에 들어가는 블록
+create_block : oak_fence
+전체 비율의 각각의%
+ord_spawn:
+  stone : 50
+  coal_ore : 10
+  iron_ore : 10
+  copper_ore : 10
+  redstone_ore : 10
+  gold_ore : 8
+  diamond_ore : 1
+  emerald_ore : 1
+  diamond_block : 0.1
+```
